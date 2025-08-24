@@ -7,8 +7,7 @@ PWA, WebSocket, WebWorker, Next, Tailwind -- 👍💪
 
 ## Мой стек
 
-<img width="640" height="640" alt="javascript" src="https://github.com/user-attachments/assets/5510d4e1-7c0a-4090-b03e-988c1e916fa3" />
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
