@@ -1,4 +1,4 @@
-![javascript](https://github.com/user-attachments/assets/e50eecd6-584b-4170-adf2-f91e42fc71ee)## Всем привет 👋
+## Всем привет 👋
 
 ## О себе
 
@@ -8,6 +8,9 @@ PWA, WebSocket, WebWorker, Next, Tailwind -- 👍💪
 ## Мой стек
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react]([https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://simpleicons.org/icons/react.svg))
+
+
 
 
 
