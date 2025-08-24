@@ -18,3 +18,6 @@ PWA, WebSocket, WebWorker, Next, Tailwind -- 👍💪
 ## Контакты
 
 [![telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge)](https://t.me/RomanN8322)
+[![maildotru](https://img.shields.io/badge/Maildotru-0077B5?style=for-the-badge)](https://t.me/RomanN8322)
+
+
